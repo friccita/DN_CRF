@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /afs/cern.ch/work/f/friccita/HCALRadDam/DN_CRF/notes/tmp/DN-16-033_temp.aux
+The style file: auto_generated.bst
+Database file #1: auto_generated.bib
+Warning--empty institution in CMS-DN-2018-008
+You've used 5 entries,
+            2558 wiz_defined-function locations,
+            644 strings with 5889 characters,
+and the built_in function-call counts, 855 in all, are:
+= -- 72
+> -- 21
+< -- 1
++ -- 9
+- -- 4
+* -- 66
+:= -- 97
+add.period$ -- 9
+call.type$ -- 5
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 52
+empty$ -- 124
+format.name$ -- 4
+if$ -- 214
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 22
+num.names$ -- 4
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 0
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 4
+width$ -- 6
+write$ -- 47
+(There was 1 warning)

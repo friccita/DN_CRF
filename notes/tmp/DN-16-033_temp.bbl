@@ -1,0 +1,36 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}%
+\makeatletter
+\providecommand{\hrefCMSnoop }[0]{\@secondoftwo}%
+\makeatother
+\providecommand{\doi}{\texttt{doi:}\begingroup \urlstyle{tt}\Url}
+
+\bibitem{Kuraray}
+\href
+  {http://www.phenix.bnl.gov/WWW/publish/donlynch/RXNP/Safety\%20Review\%206_22_06/Kuraray-PSF-Y11.pdf}{{Kuraray
+  Co., Ltd.}, ``"Scintillation Materials"''.} \url
+  {http://www.phenix.bnl.gov/WWW/publish/donlynch/RXNP/Safety\%20Review\%206_22_06/Kuraray-PSF-Y11.pdf}.
+
+\bibitem{EJ200}
+\href
+  {http://www.eljentechnology.com/images/products/data_sheets/EJ-200_EJ-208_EJ-212.pdf}{{Eljen
+  Technology}, ``"General purpose plastic scintillator EJ-200, EJ-204, EJ-208,
+  EJ-212"''.} \url
+  {http://www.eljentechnology.com/images/products/data_sheets/EJ-200_EJ-208_EJ-212.pdf}.
+
+\bibitem{EJ260}
+\href
+  {http://www.eljentechnology.com/images/products/data_sheets/EJ-260_EJ-262.pdf}{{Eljen
+  Technology}, ``"Green emitting plastic scintillator EJ-260, EJ-262"''.} \url
+  {http://www.eljentechnology.com/images/products/data_sheets/EJ-260_EJ-262.pdf}.
+
+\bibitem{KuraWLS}
+\href {http://kuraraypsf.jp/pdf/all.pdf}{{Kuraray Co., Ltd.}, ``"Plastic
+  Scintillating Fibers"''.} \url {http://kuraraypsf.jp/pdf/all.pdf}.
+
+\bibitem{CMS-DN-2018-008}
+\href
+  {http://cms.cern.ch/iCMS/jsp/openfile.jsp?type=DN&year=2018&files=DN2018_008.pdf}{{CMS}
+  Collaboration, ``{Direct Measurement of Radiation in the HE Calorimeter of
+  CMS using Radiochromic Film}'',} CMS Detector Note CMS-DN-2018-008, 2018.
+
+\end{thebibliography}\endgroup
